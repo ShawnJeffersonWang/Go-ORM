@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	geeorm "gee-orm/day1-database-sql"
+	"geeorm"
 	_ "github.com/mattn/go-sqlite3"
 )
 
